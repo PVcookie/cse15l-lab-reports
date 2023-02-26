@@ -11,6 +11,10 @@ Since I had already done the commands to finish the lab tasks before, I ran the 
 
 ![1](https://user-images.githubusercontent.com/122561998/221392990-5c95b906-36a8-48c5-aaae-824e039e627d.PNG)
 
+For context, these were the 12 commands from my previous attempt.
+
+![ref](https://user-images.githubusercontent.com/122561998/221393946-9be25334-36e3-4bc4-a097-e42750b1bab8.PNG)
+
 from there the nano screen opened right into the spot where the error was so I pressed `<backspace>` and `2` to fix it. Then to save it I pressed `Ctrl-x`, `y`, and then `<enter>`.
 
 ![na](https://user-images.githubusercontent.com/122561998/221393092-02946878-7534-465c-bae0-580fe7625446.PNG)
