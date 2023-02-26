@@ -1,6 +1,8 @@
 ## Lab Report 3 - Researching Commands
 
 # 1. grep -c
+Source: [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
 I chose the grep command. The first that I chose to do was -c. -c searches and displays the number of times a string appears 
 in a file.
 
@@ -204,6 +206,8 @@ This one searches through a specific .txt file and searches for the amount of ti
 reason as the previous command.
 
 # 2. grep -h
+Source: [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
 The second command I chose was grep -h. It displays the lines that have a specific string, but not the file name.
 For example, if added onto the first example from the previous command you get:
 
@@ -442,6 +446,8 @@ Here it showed every single line where "info" appeared. This is useful if you wa
 appears and you already know the file you're searching.
 
 # 3. grep -w
+Source: [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
 This command checks for the whole word, not just substrings. So for example if I searched for "talk" it would return the lines where
 "talk" appeared, but not words like "talked" or "talks".
 
@@ -471,6 +477,8 @@ This command is useful because it can help search for more specific strings as o
 the string you are searching for
 
 # 4. grep -o
+Source: [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+
 This command displays only the matched string.
 
 Example 1:
